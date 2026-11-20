@@ -1,23 +1,25 @@
 # Portfólio Ágil — Sidney de Araujo
 
-Repositório de cases, artefatos e práticas de gestão ágil desenvolvidos ao longo da minha trajetória como Scrum Master.
+Cases, artefatos e práticas de gestão ágil e de dados desenvolvidos ao longo da minha trajetória como Scrum Master.
+
+Os cases de trabalho feito para empresas são estudos autorais: descrevem o problema, a abordagem e as decisões, sem código, dados, nomes ou sistemas internos de quem contratou.
 
 ## Conteúdo (em construção)
 
-- **Métricas de time** — templates de velocity, burndown e estabilidade de sprint
-- **Cerimônias** — facilitação de retrospectivas, planning e refinements
-- **Ferramentas** — automações com Jira, Power BI e Power Automate para suporte à gestão ágil
-- **Cases** — exemplos reais de aplicação de frameworks ágeis em times de tecnologia
+- **Métricas de time**: velocity, burndown e estabilidade de sprint
+- **Cerimônias**: facilitação de retrospectivas, planning e refinements
+- **Dados para gestão**: unificar as informações de Jira, Azure DevOps e Grafana numa visão só por desenvolvedor e por time
+- **Cases**: aplicação de frameworks ágeis em times de tecnologia
 
-## Automações desenvolvidas
+## Projetos abertos
 
-| Ferramenta | Repositório |
+| Projeto | O que faz |
 |---|---|
-| Análise de sprints e métricas | [jira-analytics](https://github.com/sidneydiaraujo/jira-analytics) |
-| Automação de épicos | [jira-epic-automator](https://github.com/sidneydiaraujo/jira-epic-automator) |
-| Criação de tickets com IA | [jira-dev](https://github.com/sidneydiaraujo/jira-dev) |
-| Resumo de reuniões Teams | [resumo-reunioes-teams](https://github.com/sidneydiaraujo/resumo-reunioes-teams) |
+| [Mãozinha](https://github.com/sidneydiaraujo/maozinha) | Lousa de terminais de IA para Windows, com contas do Claude Code isoladas e agentes em time |
+| [time-dev](https://github.com/sidneydiaraujo/claude-dev-plugin) | 10 especialistas de desenvolvimento e 2 revisores para o Claude Code, em português |
+| [Método PONTE](https://github.com/sidneydiaraujo/metodo-ponte) | Skill de IA para alinhar culturas rumo a um desejo comum |
+| [resumo-reunioes-teams](https://github.com/sidneydiaraujo/resumo-reunioes-teams) | Resumo estruturado das reuniões do Microsoft Teams no OneDrive |
 
 ---
 
-*Em desenvolvimento ativo. Novos artefatos sendo adicionados.*
+*Em desenvolvimento ativo. Novos cases sendo adicionados.*
