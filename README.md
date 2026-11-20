@@ -1,14 +1,11 @@
 # Portfólio Ágil — Sidney de Araujo
 
-Cases, artefatos e práticas de gestão ágil e de dados desenvolvidos ao longo da minha trajetória como Scrum Master.
-
-Os cases de trabalho feito para empresas são estudos autorais: descrevem o problema, a abordagem e as decisões, sem código, dados, nomes ou sistemas internos de quem contratou.
+Cases, artefatos e práticas de gestão ágil desenvolvidos ao longo da minha trajetória como Scrum Master.
 
 ## Conteúdo (em construção)
 
 - **Métricas de time**: velocity, burndown e estabilidade de sprint
 - **Cerimônias**: facilitação de retrospectivas, planning e refinements
-- **Dados para gestão**: unificar as informações de Jira, Azure DevOps e Grafana numa visão só por desenvolvedor e por time
 - **Cases**: aplicação de frameworks ágeis em times de tecnologia
 
 ## Projetos abertos
