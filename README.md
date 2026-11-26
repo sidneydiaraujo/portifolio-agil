@@ -8,7 +8,7 @@ Cada case segue a mesma estrutura: **contexto → problema → o que eu fiz → 
 
 ## Cases publicados
 
-### 1. Jirafalis: governança de processo no Jira com IA
+### 1. inspetor.ia: governança de processo no Jira com IA
 
 | | |
 |---|---|
@@ -17,7 +17,7 @@ Cada case segue a mesma estrutura: **contexto → problema → o que eu fiz → 
 | **Competências** | Governança de processo, cultura justa, métricas de fluxo, Jira, IA aplicada, discovery de produto |
 | **Repositório** | [sidneydiaraujo/jirafalis](https://github.com/sidneydiaraujo/jirafalis) |
 
-### 2. Mãozinha: um time de agentes de IA, com líder
+### 2. opensquad-desktop: um time de agentes de IA, com líder
 
 | | |
 |---|---|
