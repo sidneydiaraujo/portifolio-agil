@@ -15,7 +15,7 @@ Cada case segue a mesma estrutura: **contexto → problema → o que eu fiz → 
 | **Problema** | Em squads que usam IA no dia a dia, quando o fluxo desvia é difícil saber se a falha foi do processo, da pessoa ou da IA. |
 | **O que é** | Governança de processo no Jira: mostra onde o fluxo desvia, a causa provável da falha (processo, pessoa ou IA) e a origem das mudanças, dentro de uma cultura justa. |
 | **Competências** | Governança de processo, cultura justa, métricas de fluxo, Jira, IA aplicada, discovery de produto |
-| **Repositório** | [sidneydiaraujo/jirafalis](https://github.com/sidneydiaraujo/jirafalis) |
+| **Repositório** | [sidneydiaraujo/inspetor.ia](https://github.com/sidneydiaraujo/inspetor.ia) |
 
 ### 2. opensquad-desktop: um time de agentes de IA, com líder
 
@@ -24,7 +24,7 @@ Cada case segue a mesma estrutura: **contexto → problema → o que eu fiz → 
 | **Problema** | Trabalhar com várias contas do Claude Code e vários agentes ao mesmo tempo sem perder o controle de quem está fazendo o quê. |
 | **O que é** | App de desktop (Electron + TypeScript) com uma lousa de terminais de IA, contas isoladas e agentes em time: um líder distribui, confere e junta o trabalho. |
 | **Competências** | Produto, arquitetura, orquestração de agentes, entregas em fatias, decisões registradas |
-| **Repositório** | [sidneydiaraujo/maozinha](https://github.com/sidneydiaraujo/maozinha) |
+| **Repositório** | [sidneydiaraujo/opensquad-desktop](https://github.com/sidneydiaraujo/opensquad-desktop) |
 
 ### 3. time-dev: os papéis de um time de desenvolvimento para a IA
 
